@@ -1,0 +1,7 @@
+ami = "ami-0855d04c4bc4eb106"
+instance_type = "t3.small"
+Env = "qa"
+instance-Name = "postgresql-sever-qa"
+Name = "qa vpc"
+cidr_block = "18.0.0.0/20"
+availability_zone = "ca-central-1c"
